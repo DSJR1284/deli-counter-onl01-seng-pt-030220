@@ -21,8 +21,8 @@ def line(katz_deli)
   
   def now_serving(katz_deli)
     if katz_deli.length == 0 
-      puts 
-    end 
-    
-  end 
+      puts "There is nobody waiting to be served!"
+   else 
+   end 
+ end
   
