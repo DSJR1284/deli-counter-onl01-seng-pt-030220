@@ -22,6 +22,7 @@ def line(katz_deli)
   def now_serving(katz_deli)
     if katz_deli.lenght == 0 
       puts 
+    end 
     
   end 
   
